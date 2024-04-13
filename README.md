@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Daniel Zhong</h1>
+<h3 align="center">A passionate Graphics Developer for Games</h3>
 
-<!--
-**DanielZhong/DanielZhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Vulkan, Mixed Reality**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Unity, UE5, WebGPU, OpenGL, CUDA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **danielzhong2000@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/145NNeTt0pLyz-554JAvELS2c2yDTsX3W/view](https://drive.google.com/file/d/145NNeTt0pLyz-554JAvELS2c2yDTsX3W/view)
+
+- ⚡ Please check **my amazing projects at pinned section**
+
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielzhong&show_icons=true&locale=en&layout=compact" alt="danielzhong" /></p>
