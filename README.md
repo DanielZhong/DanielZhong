@@ -10,8 +10,3 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/145NNeTt0pLyz-554JAvELS2c2yDTsX3W/view](https://drive.google.com/file/d/145NNeTt0pLyz-554JAvELS2c2yDTsX3W/view)
 
 - ⚡ Please check **my amazing projects at pinned section**
-
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielzhong&show_icons=true&locale=en&layout=compact" alt="danielzhong" /></p>
